@@ -41,6 +41,43 @@ For human reading, start with the core loop in `SKILL.md`, then go into whicheve
 
 ---
 
-## Context
+## The research behind it
 
-This project was developed as part of the **Designing Interactions** specialization within the [MSc Interdisciplinary Computing](https://it-u.at/en/study-program/master-programs/) at [IT:U — Interdisciplinary Transformation University Austria](https://it-u.at/en/), Linz. The "Humans in Context" framing was introduced by the course professor as the project theme.
+![Title slide: Agentic Artificial Intelligence: Adoption, Usage, Relationship, and Trust between Humans and Agents](docs/images/title.png)
+
+The playbook is the output of a qualitative study, **"Agentic Artificial Intelligence: Adoption, Usage, Relationship, and Trust between Humans and Agents"**, presented on 29 June 2026. It was not published as a paper; this repository and the final presentation are the record.
+
+**Starting point.** Existing research on agentic AI covers how to define agents, technology adoption, human–AI interaction and delegation/trust, but does not capture well how people actually adopt, experience and delegate work to these tools day to day.
+
+**Research questions**
+
+- **RQ0:** What motivates people to adopt agentic AI, and to keep using it?
+- **RQ1:** What is the relationship between the user and the agent: the words they use for it, their workflow, and how the scope and autonomy of what they delegate shift over time?
+- **RQ2:** What are the ethical implications: how trust shapes reliance and oversight, what risks come with delegating decisions, and where accountability sits when something goes wrong?
+
+**Method.** Exploratory, semi-structured interviews following a guide in four blocks: warm-up, motivation and adoption journey, interaction/vocabulary/delegation, and ethics/trust/accountability. The analysed sample is nine interviews (six professionals, three students; 24–44 minutes each, via Teams), recorded and transcribed with consent. Interviews were coded iteratively in QualCoder, each reviewed by at least two researchers; codes were grouped into themes individually and then refined together.
+
+![Method slide: interview guide in four blocks](docs/images/method.png)
+
+**Findings**
+
+1. Continued use and perceived reliability depend on task complexity and on how efficiently the agent gets to done: *"Perfect for the tiny task, but when you ask it something big or something complicated, it's gonna be a nightmare."*
+2. The relationship is unstable, swinging between tool and partner: participants called it a *"lucky employee"*, *"a minion"*, and *"just a stupid tool"*.
+3. Intuition and "folk engineering" (home-grown rules, copy-pasted prompts, tricks for noticing when context is lost) are what people rely on to get good output and work around limits.
+4. Trust is negotiated and conditional, not a function of the agent's competence alone.
+5. Responsibility stays firmly human even as autonomy grows: *"You cannot blame your car. You are the driver."*
+6. Delegating moves effort from doing the task to overseeing and evaluating it, and some participants pulled back to avoid losing their own skills.
+
+![Finding slide: trust is negotiated, conditional, and does not solely rely on agent competence](docs/images/finding-trust.png)
+
+**Implications for design.** Graduated, adjustable autonomy matched to task complexity; agents built so their work can be monitored and validated; and users' folk-engineering practices treated as scaffolding for better explainability. The playbook in this repository turns those findings into a practical delegation workflow.
+
+**Limitations.** Small, mostly male (8 of 9) and mostly professional sample; no longitudinal data; responsibility was asked about in retrospect, not observed in real high-stakes situations; and the tools change fast enough to date the findings.
+
+## Team and context
+
+Bahar Rekabsaz, Lisa Seeberger, Ninar Alsaed, Pedro Marin Sekine, Yoshua Neumann.
+
+Supervised by Prof. Christopher Frauenberger, with support from Asst. Prof. Iohanna Nicenboim and Asst. Prof. Sebastian Dennerlein.
+
+Developed in the **Designing Interactions: Humans in Context** project of the [MSc Interdisciplinary Computing](https://it-u.at/en/study-program/master-programs/) at [IT:U — Interdisciplinary Transformation University Austria](https://it-u.at/en/), Linz, summer term 2026.
