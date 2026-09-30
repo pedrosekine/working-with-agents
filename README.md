@@ -45,7 +45,7 @@ For human reading, start with the core loop in `SKILL.md`, then go into whicheve
 
 ![Title slide: Agentic Artificial Intelligence: Adoption, Usage, Relationship, and Trust between Humans and Agents](docs/images/title.png)
 
-The playbook is the output of a qualitative study, **"Agentic Artificial Intelligence: Adoption, Usage, Relationship, and Trust between Humans and Agents"**, presented on 29 June 2026. It was not published as a paper; this repository and the final presentation are the record.
+The playbook is the output of a qualitative study, **"Agentic Artificial Intelligence: Adoption, Usage, Relationship, and Trust between Humans and Agents"**, presented on 29 June 2026. It was not published as a paper; this repository and the [final presentation (PDF)](docs/final-presentation.pdf) are the record.
 
 **Starting point.** Existing research on agentic AI covers how to define agents, technology adoption, human–AI interaction and delegation/trust, but does not capture well how people actually adopt, experience and delegate work to these tools day to day.
 
