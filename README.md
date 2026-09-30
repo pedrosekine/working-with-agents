@@ -57,7 +57,7 @@ The playbook is the output of a qualitative study, **"Agentic Artificial Intelli
 
 **Method.** Exploratory, semi-structured interviews following a guide in four blocks: warm-up, motivation and adoption journey, interaction/vocabulary/delegation, and ethics/trust/accountability. The analysed sample is nine interviews (six professionals, three students; 24–44 minutes each, via Teams), recorded and transcribed with consent. Interviews were coded iteratively in QualCoder, each reviewed by at least two researchers; codes were grouped into themes individually and then refined together.
 
-![Method slide: interview guide in four blocks](docs/images/method.png)
+![Study context slide: 9 interviews, 24–44 minutes, 6 professionals and 3 students, coded in QualCoder](docs/images/study-context.png)
 
 **Findings**
 
