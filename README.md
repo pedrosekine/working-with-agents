@@ -78,6 +78,8 @@ The playbook is the output of a qualitative study, **"Agentic Artificial Intelli
 
 Bahar Rekabsaz, Lisa Seeberger, Ninar Alsaed, Pedro Marin Sekine, Yoshua Neumann.
 
+**My part (Pedro):** I built the playbook (`SKILL.md` and `references/`), did a large share of the literature review, and coded some of the interviews.
+
 Supervised by Prof. Christopher Frauenberger, with support from Asst. Prof. Iohanna Nicenboim and Asst. Prof. Sebastian Dennerlein.
 
 Developed in the **Designing Interactions: Humans in Context** project of the [MSc Interdisciplinary Computing](https://it-u.at/en/study-program/master-programs/) at [IT:U — Interdisciplinary Transformation University Austria](https://it-u.at/en/), Linz, summer term 2026.
